@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://partyweis.github.io/partyweis.partyweis
+Sitemap: https://partyweis.github.io/app/partyweis.partyweis
+Sitemap: https://partyweis.github.io/assets/partyweis.partyweis
+Sitemap: https://partyweis.github.io/css/partyweis.partyweis
+Sitemap: https://partyweis.github.io/includes/partyweis.partyweis
+Sitemap: https://partyweis.github.io/item/partyweis.partyweis
+Sitemap: https://partyweis.github.io/src/partyweis.partyweis
